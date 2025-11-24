@@ -1,6 +1,3 @@
--- filename: 
--- version: lua51
--- line: [0, 0] id: 0
 local r0_0 = game:GetService("MarketplaceService")
 local r1_0 = game:GetService("UserInputService")
 local r2_0 = game:GetService("TweenService")
