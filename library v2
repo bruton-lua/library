@@ -1,3 +1,5 @@
+--Minha Versão única - Magnus Modificações 
+--Ser tive outro igual, e meu ramake rsrsrs
 local MarketplaceService = game:GetService("MarketplaceService")
 local UserInputService = game:GetService("UserInputService")
 local TweenService = game:GetService("TweenService")
@@ -1916,7 +1918,7 @@ function redzlib:MakeWindow(Configs)
 
 	function Window:AddMinimizeButton(Configs)
 		local Button = MakeDrag(Create("ImageButton", ScreenGui, {
-			Size = UDim2.fromOffset(12, 12),
+			Size = UDim2.fromOffset(70, 70),
 			Position = UDim2.fromScale(0.15, 0.15),
 			BackgroundTransparency = 1,
 			AutoButtonColor = false
